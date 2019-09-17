@@ -26,7 +26,7 @@ bl_info = {
     "location": "UV/Image Editor > Properties > Image",
     "description": "Estimates the time to complete rendering on animations",
     "warning": "Does not work on OpenGL renders.",
-    "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Render/Render_Time_Estimation",
+    "wiki_url": "https://github.com/Hilicot/Blender-2.8-Render-Time-Extimation",
     "tracker_url": "http://projects.blender.org/tracker/index.php?func=detail&aid=30452&group_id=153&atid=467",
     "category": "Render"}
 
